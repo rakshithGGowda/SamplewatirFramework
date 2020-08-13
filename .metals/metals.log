@@ -1,0 +1,7 @@
+2020.07.14 13:07:25 INFO  started: Metals version 0.9.1 in workspace 'C:\Users\rakg\Desktop\stripdown_framework_pageobject'
+2020.07.14 13:07:26 INFO  time: initialize in 0.82s
+2020.07.14 13:07:27 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\stripdown_framework_pageobject'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.15 12:28:57 INFO  started: Metals version 0.9.1 in workspace 'C:\Users\rakg\Desktop\stripdown_framework_pageobject'
+2020.07.15 12:28:59 INFO  time: initialize in 1.79s
+2020.07.15 12:29:07 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\stripdown_framework_pageobject'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.15 13:20:07 INFO  shutting down Metals
